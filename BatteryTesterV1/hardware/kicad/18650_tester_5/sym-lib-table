@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "18650_tester_5-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/18650_tester_5-eagle-import.kicad_sym")(options "")(descr ""))
+)
